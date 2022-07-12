@@ -2,19 +2,10 @@
 - 👋 Hello There, I’m @okiasz
 - 🌱 I’m currently learning Python, PHP and JavaScript
 - 👀 I’m interested in Videogames, films and always learning new things!
-- 📫 How to reach me: here’s my e-mail: okiasbusiness@gmail.com
+- ✉️ How to reach me: here’s my e-mail: okiasbusiness@gmail.com
 - 😄 Pronouns: He/Him
-<!--
-**okiasz/okiasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Links 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 34
-- ⚡ Fun fact: ...
--->
+- 🐣 https://twitter.com/okiasz
+- 💼 https://www.linkedin.com/in/sergio-aguado-moreno-a79192245/
