@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### 👋 Digital nomad + Back-end developer in progress
+- 👋 Hello There, I’m @okiasz
+- 🌱 I’m currently learning Python, PHP and JavaScript
+- 👀 I’m interested in Videogames, films and always learning new things!
+- 📫 How to reach me: here’s my e-mail: okiasbusiness@gmail.com
+- 😄 Pronouns: He/Him
 <!--
 **okiasz/okiasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: 34
 - ⚡ Fun fact: ...
 -->
