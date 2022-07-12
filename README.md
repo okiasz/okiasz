@@ -8,4 +8,3 @@
 ### 📌 Interesting Links 
 
 - 🐣 https://twitter.com/okiasz
-- 💼 https://www.linkedin.com/in/sergio-aguado-moreno-a79192245/
