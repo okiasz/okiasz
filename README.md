@@ -8,3 +8,4 @@
 ### 📌 Interesting Links 
 
 - 🐣 https://twitter.com/okiasz
+- 🦂 https://monkeytype.com/account
