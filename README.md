@@ -6,4 +6,10 @@
 - 😄 Pronouns: He/Him
 
 ### 📌 Interesting Links 
+- 🐣 https://twitter.com/okiasz
+- 🦂 https://monkeytype.com/account
+- 🦇 https://open.spotify.com/user/fvfgrx25xxlj0u7t5tpqkeyo4?si=7d9c7bb1a2d34861
+- 🤠 https://www.linkedin.com/in/sergio-aguado-moreno-a79192245/
+
+### 📎 Linktree 
 - 🌳 https://linktr.ee/okias (Here u can check all my social links)
