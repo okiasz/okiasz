@@ -1,4 +1,4 @@
-### 👋 Digital nomad + Pentester developer in progress
+### 👋 Digital nomad + Pentester in progress
 - 👋 Hello There, I’m @okiasz
 - 🌱 I’m currently learning Java and Python.
 - 👀 I’m interested in Videogames, films and always learning new things!
