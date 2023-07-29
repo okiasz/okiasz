@@ -1,5 +1,5 @@
 ### 👋 Digital nomad + Pentester in progress
-- 👋 Hello There, I’m @okiasz
+- 👋 Hello There, I’m @okias
 - 🌱 I’m currently learning C++ and Python.
 - 👀 I’m interested in Videogames, films and always learning new things!
 - ✉️ How to reach me: here’s my e-mail: okiasbusiness@gmail.com
